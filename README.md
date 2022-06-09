@@ -1,6 +1,6 @@
 # Papsajt és permutációi
 
-https://hu.wikipedia.org/wiki/Papsajtm%C3%A1lyva
+[Mi az a papsajt?](https://hu.wikipedia.org/wiki/Papsajtm%C3%A1lyva)
 
 ![papsajt](photos/papsajt.jpg?raw=true "papsajt")
 
